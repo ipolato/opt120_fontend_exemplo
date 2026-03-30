@@ -26,8 +26,8 @@ Para que este aplicativo funcione perfeitamente, você **precisa** que o backend
 ### Passo 1: Clonar o Repositório
 Abra o terminal e clone este projeto em uma pasta separada do backend:
 ```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_FRONTEND.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_FRONTEND.git)
-cd NOME_DO_REPOSITORIO_FRONTEND
+git clone [https://github.com/ipolato/opt120_fontend_exemplo.git](https://github.com/ipolato/opt120_fontend_exemplo.git)
+cd opt120_fontend_exemplo
 ```
 ### Passo 2: Instalar as Dependências
 Baixe os pacotes necessários (como o pacote http) definidos no arquivo pubspec.yaml:
