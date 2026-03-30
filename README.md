@@ -26,7 +26,7 @@ Para que este aplicativo funcione perfeitamente, você **precisa** que o backend
 ### Passo 1: Clonar o Repositório
 Abra o terminal e clone este projeto em uma pasta separada do backend:
 ```bash
-git clone [https://github.com/ipolato/opt120_fontend_exemplo.git](https://github.com/ipolato/opt120_fontend_exemplo.git)
+git clone https://github.com/ipolato/opt120_fontend_exemplo.git
 cd opt120_fontend_exemplo
 ```
 ### Passo 2: Instalar as Dependências
